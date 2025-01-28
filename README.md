@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nur Mohammad Rafi</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Nur+Mohammad+Rafi;&color=FF5733" />
+</h1>
 <h3 align="center">A Developer Without a Computer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ostwrafi&label=Profile%20views&color=0e75b6&style=flat" alt="ostwrafi" /> </p>
