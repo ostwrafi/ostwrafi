@@ -33,3 +33,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ostwrafi&show_icons=true&locale=en" alt="ostwrafi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ostwrafi&" alt="ostwrafi" /></p>
+
+<!-- Contribution Snake -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/></p>
+
+<hr>
+
